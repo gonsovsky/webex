@@ -3,13 +3,13 @@
 
 Зависимости
 ------
- go get golang.org/x/net/proxy
- go get github.com/PuerkitoBio/goquery
+ - go get golang.org/x/net/proxy
+ - go get github.com/PuerkitoBio/goquery
 
 Запуск/Отладка
 ------
 
-go run webex.go , браузер http://localhost:8080
+go run main.go middleman.go, браузер http://localhost:8080
 
 Схема работы
 --------
